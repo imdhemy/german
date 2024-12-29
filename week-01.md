@@ -1,38 +1,38 @@
-# Week 1
+# Woche 1
 
 ## Menschen A1.2
 
-### Chapter 13
-- [ ] Vocabulary
-- [ ] Grammar
-- [ ] Listening
-- [ ] Reading
-- [ ] Writing
-- [ ] Workbook
-- [ ] Speaking
-- [ ] Review
+### Kapitel 13
+- [X] Vokabeln
+- [X] Grammatik
+- [X] Hören
+- [X] Lesen
+- [X] Schreiben
+- [x] Arbeitsbuch
+- [X] Sprechen
+- [ ] Wiederholung
 - [ ] Quiz
 
-### Chapter 14
-- [ ] Vocabulary
-- [ ] Grammar
-- [ ] Listening
-- [ ] Reading
-- [ ] Writing
-- [ ] Workbook
-- [ ] Speaking
-- [ ] Review
+### Kapitel 14
+- [ ] Vokabeln
+- [x] Grammatik
+- [x] Hören
+- [x] Lesen
+- [ ] Schreiben
+- [ ] Arbeitsbuch
+- [ ] Sprechen
+- [ ] Wiederholung
 - [ ] Quiz
-- [ ] **Review**: Chapters 13-14
+- [ ] **Wiederholung**: Kapitel 13-14
 
-### Chapter 15
-- [ ] Vocabulary
-- [ ] Grammar
-- [ ] Listening
-- [ ] Reading
-- [ ] Writing
-- [ ] Workbook
-- [ ] Speaking
-- [ ] Review
+### Kapitel 15
+- [ ] Vokabeln
+- [ ] Grammatik
+- [ ] Hören
+- [ ] Lesen
+- [ ] Schreiben
+- [ ] Arbeitsbuch
+- [ ] Sprechen
+- [ ] Wiederholung
 - [ ] Quiz
-- [ ] **Review**: Chapters 13-15
+- [ ] **Wiederholung**: Kapitel 13-15
