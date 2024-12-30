@@ -27,9 +27,9 @@
 
 ### Kapitel 15
 - [ ] Vokabeln
-- [ ] Grammatik
-- [ ] Hören
-- [ ] Lesen
+- [X] Grammatik
+- [X] Hören
+- [X] Lesen
 - [ ] Schreiben
 - [ ] Arbeitsbuch
 - [ ] Sprechen
