@@ -20,7 +20,7 @@
 - [x] Lesen
 - [x] Schreiben
 - [ ] Arbeitsbuch
-- [ ] Sprechen
+- [x] Sprechen
 - [ ] Wiederholung
 - [ ] Quiz
 - [ ] **Wiederholung**: Kapitel 13-14
@@ -32,7 +32,7 @@
 - [X] Lesen
 - [ ] Schreiben
 - [ ] Arbeitsbuch
-- [ ] Sprechen
+- [x] Sprechen
 - [ ] Wiederholung
 - [ ] Quiz
 - [ ] **Wiederholung**: Kapitel 13-15
