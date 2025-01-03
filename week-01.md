@@ -14,7 +14,7 @@
 - [x] Quiz
 
 ### Kapitel 14
-- [ ] Vokabeln
+- [x] Vokabeln
 - [x] Grammatik
 - [x] Hören
 - [x] Lesen
