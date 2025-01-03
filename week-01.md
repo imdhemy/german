@@ -10,8 +10,8 @@
 - [X] Schreiben
 - [x] Arbeitsbuch
 - [X] Sprechen
-- [ ] Wiederholung
-- [ ] Quiz
+- [x] Wiederholung
+- [x] Quiz
 
 ### Kapitel 14
 - [ ] Vokabeln
