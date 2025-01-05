@@ -19,7 +19,7 @@
 - [x] Hören
 - [x] Lesen
 - [x] Schreiben
-- [ ] Arbeitsbuch
+- [x] Arbeitsbuch
 - [x] Sprechen
 - [ ] Wiederholung
 - [ ] Quiz
