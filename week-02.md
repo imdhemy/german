@@ -11,10 +11,10 @@
 - [ ] **Wiederholung**: Kapitel 13-15
 
 ### Kapitel 16
-- [ ] Vokabeln
+- [x] Vokabeln
 - [ ] Grammatik
-- [ ] Hören
-- [ ] Lesen
+- [x] Hören
+- [x] Lesen
 - [ ] Schreiben
 - [ ] Arbeitsbuch
 - [ ] Sprechen
