@@ -8,4 +8,4 @@
 - [ ] Day 4: Arbeitsbuch (30 min)
 - [ ] Day 5: Arbeitsbuch (45 min)
 - [ ] Day 6: Arbeitsbuch (15 min)
-- [ ] Day 7: Watch a German show (15 min)
+- [x] Day 7: Watch a German show (15 min)
