@@ -1,5 +1,7 @@
 # Woche 2
 
+I couldn't complete the tasks for week 1. I'll try to catch up this week.
+
 ## Menschen A1.2
 
 ### Kapitel 15
