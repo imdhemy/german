@@ -2,7 +2,7 @@
 
 ## **Menschen A1.2 – Kapitel 15–16**
 
-- [ ] Day 1: Kapitel 15 Kursbuch (45 min)
+- [x] Day 1: Kapitel 15 Kursbuch (45 min)
 - [ ] Day 2: Kapitel 16 Kursbuch (45 min)
 - [ ] Day 3 Revise vocabularies and Grammar (45 min)
 - [ ] Day 4: Arbeitsbuch (30 min)
